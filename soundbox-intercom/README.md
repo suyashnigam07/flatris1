@@ -16,6 +16,15 @@ Speak into your phone and hear it on a Bluetooth speaker in another room.
 4. A "ding-dong" plays first so the listener knows a message is coming (can be turned off).
 5. Use **Voice boost** and the **Volume** button if it's too quiet.
 
+## Talk back (Listen)
+Tap **LISTEN TO MOM** to hear the room downstairs on your phone, through the soundbox's own
+microphone (the one it uses for hands-free calls). By default the app also listens for
+20 seconds automatically after you finish talking, and stays open longer while she is speaking.
+
+Requirements: the soundbox must have a built-in mic ("hands-free calling"), and in the phone's
+Bluetooth settings the speaker's **Calls / Phone audio** option must be on. The app shows
+*Soundbox mic: available* when it detects it.
+
 The app refuses to talk when no Bluetooth speaker is connected, so your voice never comes
 out of the phone's own speaker.
 
